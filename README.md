@@ -3,9 +3,18 @@ CEH Practical &amp; Master, iLAB Practice
 
 Based on my experience, completing all of the official iLAB modules can lead to passing the exam. I've compiled a list of iLAB exercises that can enhance your technical skills. These exercises are not just for the purpose of the exam but also to improve your penetration testing techniques.
 
+Website : https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh-practical/
+
+## Basic Skill
+
+- Parrot OS and Linux command
+- Basic Network Principles
+
 ## Module Lab
 
 ### Module 02_Footprinting and Reconnaissance
+
+Footprinting and reconnaissance are the initial steps in penetration testing. You need to understand the usage methods of various tools for this purpose.
 
 2. Perform footprinting through web services
   
