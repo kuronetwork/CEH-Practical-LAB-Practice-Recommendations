@@ -1,7 +1,7 @@
 # CEH Practical LAB Practice Recommendations
 CEH Practical &amp; Master, iLAB Practice
 
-The official iLAB can help improve your technical knowledge, please be sure to practice the official iLAB.
+Based on my experience, completing all of the official iLAB modules can lead to passing the exam. I've compiled a list of iLAB exercises that can enhance your technical skills. These exercises are not just for the purpose of the exam but also to improve your penetration testing techniques.
 
 ## Module Lab
 
@@ -341,5 +341,7 @@ The official iLAB can help improve your technical knowledge, please be sure to p
 - Perform cryptanalysis using CrypTool
 
 ## Engage Lab
+
+The Engage Lab is an exercise to test your familiarity with tools and vulnerabilities. If you can solve most of the questions, you will be able to pass the exam smoothly.
 
 - Engage 1 - 4
