@@ -37,7 +37,7 @@ Based on my experience, completing all of the official iLAB modules can lead to 
 
 ### Module 03_Scanning Networks
 
-NMAP is an important tool for you, so please make sure to familiarize yourself with its usage methods.
+Nmap is an important tool frequently utilized in penetration testing. Please learn how to use Nmap commands effectively.
 
 1. Perform host discovery
   
@@ -102,6 +102,8 @@ You must understand various enumeration techniques.
 - Perform RPC, SMB, and FTP enumeration using Nmap
 
 ### Module 05_Vulnerability Analysis
+
+Vulnerability assessment tools are commonly used. Please familiarize yourself with the basic usage methods of these tools.
 
 2. Perform vulnerability assessment using various vulnerability assessment tools
   
