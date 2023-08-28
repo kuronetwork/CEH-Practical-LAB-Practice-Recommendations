@@ -37,6 +37,8 @@ Based on my experience, completing all of the official iLAB modules can lead to 
 
 ### Module 03_Scanning Networks
 
+NMAP is an important tool for you, so please make sure to familiarize yourself with its usage methods.
+
 1. Perform host discovery
   
 
@@ -59,6 +61,8 @@ Based on my experience, completing all of the official iLAB modules can lead to 
   
 
 ### Module 04_Enumeration
+
+You must understand various enumeration techniques.
 
 1. Perform NetBIOS enumeration
   
@@ -109,6 +113,8 @@ Based on my experience, completing all of the official iLAB modules can lead to 
 
 ### Module 06_System Hacking
 
+Please make sure to familiarize yourself with privilege escalation techniques.
+
 1. Gain access to the system
   
 
@@ -136,6 +142,8 @@ Based on my experience, completing all of the official iLAB modules can lead to 
 - Clear Linux machine logs using the BASH shell
 
 ### Module 07_Malware Threats
+
+Reverse engineering is challenging, but here, please focus on becoming familiar with the tools' usage.
 
 1. Gain access to the target system using Trojans
   
@@ -165,6 +173,8 @@ Based on my experience, completing all of the official iLAB modules can lead to 
 
 ### Module 08_Sniffing
 
+Please gain an understanding of network packet traffic analysis and the usage of Wireshark.
+
 1. Perform active sniffing
   
 
@@ -183,6 +193,8 @@ Based on my experience, completing all of the official iLAB modules can lead to 
 - Detect phishing using Netcraft
 
 ### Module 10_Denial-of-Service
+
+Please gain an understanding of network packet traffic analysis and the usage of Wireshark.
 
 1. Perform DoS and DDoS attacks using various Techniques
   
@@ -208,6 +220,8 @@ Based on my experience, completing all of the official iLAB modules can lead to 
 
 ### Module 13_Hacking Web Servers
 
+Web Server attack techniques are quite common. Please understand how to gather relevant version information and use cracking tools.
+
 1. Footprint the web server
   
 
@@ -226,6 +240,8 @@ Based on my experience, completing all of the official iLAB modules can lead to 
 - Crack FTP credentials using a Dictionary Attack
 
 ### Module 14_Hacking Web Applications
+
+Web applications often have vulnerabilities. Please understand how to gather relevant version information and utilize tools.
 
 1. Footprint the web infrastructure
   
@@ -253,6 +269,8 @@ Based on my experience, completing all of the official iLAB modules can lead to 
 
 ### Module 15_SQL Injection
 
+Please gain an understanding of the principles of SQL Injection and the SQLMAP tool.
+
 1. Perform SQL injection attacks
   
 
@@ -262,6 +280,8 @@ Based on my experience, completing all of the official iLAB modules can lead to 
   
 
 ### Module 16_Hacking Wireless Networks
+
+Please understand the differences between WEP, WPA, and WPA2, and become familiar with Aircrack-ng.
 
 1. Perform wireless traffic analysis
   
@@ -278,6 +298,8 @@ Based on my experience, completing all of the official iLAB modules can lead to 
 
 ### Module 17_Hacking Mobile Platforms
 
+Please become knowledgeable about mobile security techniques and get familiar with adb commands and the Phonesploit tool.
+
 1. Hack android devices
   
 
@@ -293,6 +315,8 @@ Based on my experience, completing all of the official iLAB modules can lead to 
 
 ### Module 18_IoT and OT Hacking
 
+Please understand the packet structures of MQTT and Modbus.
+
 1. Perform footprinting using various footprinting techniques
   
 
@@ -305,6 +329,8 @@ Based on my experience, completing all of the official iLAB modules can lead to 
 
 ### Module 19_Cloud Computing
 
+Cloud services are commonly used in our work, and I believe practicing with them is very worthwhile.
+
 1. Perform S3 bucket enumeration using various S3 bucket enumeration tools
   
 
@@ -314,6 +340,8 @@ Based on my experience, completing all of the official iLAB modules can lead to 
   
 
 ### Module 20_Cryptography
+
+Cryptography is crucial in the field of information security. It's essential to understand the principles of encryption and decryption, as well as how to use cryptographic tools.
 
 1. Encrypt the information using various cryptography tools
   
