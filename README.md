@@ -1,4 +1,4 @@
-# Lab_for_CEH_Practical
+# CEH Practical LAB Practice Recommendations
 CEH Practical &amp; Master, iLAB Practice
 
 The official iLAB can help improve your technical knowledge, please be sure to practice the official iLAB.
