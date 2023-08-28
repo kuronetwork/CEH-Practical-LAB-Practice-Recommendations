@@ -8,7 +8,7 @@ Website : https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh-p
 ## Basic Skill
 
 - Parrot OS and Linux command
-- Basic Network Principles
+- Basic Network concept
 
 ## Module Lab
 
@@ -280,7 +280,7 @@ Web applications often have vulnerabilities. Please understand how to gather rel
 
 ### Module 15_SQL Injection
 
-Please gain an understanding of the principles of SQL Injection and the SQLMAP tool.
+Please gain an understanding of the concept of SQL Injection and the SQLMAP tool.
 
 1. Perform SQL injection attacks
   
@@ -352,7 +352,7 @@ Cloud services are commonly used in our work, and I believe practicing with them
 
 ### Module 20_Cryptography
 
-Cryptography is crucial in the field of information security. It's essential to understand the principles of encryption and decryption, as well as how to use cryptographic tools.
+Cryptography is crucial in the field of information security. It's essential to understand the concept of encryption and decryption, as well as how to use cryptographic tools.
 
 1. Encrypt the information using various cryptography tools
   
