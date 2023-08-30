@@ -1,4 +1,4 @@
-# CEH Practical LAB Practice Recommendations
+# CEH Practical LAB － Practice Recommendations
 CEH Practical &amp; Master, iLAB Practice
 
 Based on my experience, completing all of the official iLAB modules can lead to passing the exam. I've compiled a list of iLAB exercises that can enhance your technical skills. These exercises are not just for the purpose of the exam but also to improve your penetration testing techniques.
