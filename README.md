@@ -3,6 +3,8 @@ CEH Practical &amp; Master, iLAB Practice
 
 Based on my experience, completing all of the official iLAB modules can lead to passing the exam. I've compiled a list of iLAB exercises that can enhance your technical skills. These exercises are not just for the purpose of the exam but also to improve your penetration testing techniques.
 
+I welcome your contributions to this project! Your participation will help improve and maintain this list :)
+
 CEH Practical Website : 
 - https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh-practical/
 - https://ilabs.eccouncil.org/ethical-hacking-exercises/
